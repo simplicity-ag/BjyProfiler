@@ -1,5 +1,5 @@
 {
-    "name": "bjyoungblood/bjy-profiler",
+    "name": "simplicity-ag/bjy-profiler",
     "description": "Database profiler for Zend\\Db (also plugin for ZendDeveloperTools)",
     "type": "library",
     "license": "MIT",
